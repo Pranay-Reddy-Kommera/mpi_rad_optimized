@@ -1,0 +1,1359 @@
+Execute poe command line: poe  ./kernel.exe
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ** Verification against './rrtmg_sw.5.0' **
+ 
+ 
+ 
+ 
+ ** Verification against './rrtmg_sw.5.0' **
+ ** Verification against './rrtmg_sw.5.0' **
+ ** Verification against './rrtmg_sw.5.0' **
+ ** Verification against './rrtmg_sw.5.0' **
+ ** Verification against './rrtmg_sw.5.0' **
+ ** Verification against './rrtmg_sw.5.0' **
+ ** Verification against './rrtmg_sw.5.0' **
+ ** Verification against './rrtmg_sw.5.0' **
+ ** Verification against './rrtmg_sw.5.0' **
+ 
+ 
+ 
+ 
+ ** Verification against './rrtmg_sw.5.0' **
+ 
+ 
+ ** Verification against './rrtmg_sw.5.0' **
+ ** Verification against './rrtmg_sw.5.0' **
+ ** Verification against './rrtmg_sw.5.0' **
+ ** Verification against './rrtmg_sw.5.0' **
+ ** Verification against './rrtmg_sw.5.0' **
+ 
+ swuflx is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is   8.943355731794267E-013
+ Normalized RMS of difference is   7.012363136859152E-015
+ 
+ swdflx is NOT IDENTICAL.
+         238  of          512  elements are different.
+ RMS of difference is   9.374784394721418E-013
+ Normalized RMS of difference is   1.784282626582106E-015
+ 
+ swhr is NOT IDENTICAL.
+         198  of          496  elements are different.
+ RMS of difference is   2.736086353128399E-013
+ Normalized RMS of difference is   1.383377219967383E-013
+ 
+ swuflxc is NOT IDENTICAL.
+         255  of          512  elements are different.
+ RMS of difference is   2.463906541503987E-012
+ Normalized RMS of difference is   3.570816053963814E-014
+ 
+ swdflxc is NOT IDENTICAL.
+         237  of          512  elements are different.
+ RMS of difference is   1.858512362446614E-012
+ Normalized RMS of difference is   2.474416717217832E-015
+ 
+ swhrc is NOT IDENTICAL.
+         204  of          496  elements are different.
+ RMS of difference is   2.302715562923700E-013
+ Normalized RMS of difference is   1.648516912037598E-013
+ 
+ dirdnuv is NOT IDENTICAL.
+           4  of          512  elements are different.
+ RMS of difference is   3.275440170573378E-014
+ Normalized RMS of difference is   1.911836628206569E-016
+ 
+ dirdnir is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is    37.7406713489780     
+ Normalized RMS of difference is    2.49315005423002     
+ 
+ difdnuv is NOT IDENTICAL.
+         228  of          512  elements are different.
+ RMS of difference is   7.773438541442094E-013
+ Normalized RMS of difference is   1.719339072099906E-013
+ 
+ difdnir is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is    37.7406713489781     
+ Normalized RMS of difference is    1411.97608739317     
+ 
+ ninflx is NOT IDENTICAL.
+         250  of          512  elements are different.
+ RMS of difference is   3.388372617173637E-013
+ Normalized RMS of difference is   1.385956660200234E-015
+ 
+ ninflxc is NOT IDENTICAL.
+         253  of          512  elements are different.
+ RMS of difference is   9.357014880220077E-013
+ Normalized RMS of difference is   2.124416116506829E-015
+ 
+ swuflxs is NOT IDENTICAL.
+        3454  of         7168  elements are different.
+ RMS of difference is   1.836480562880585E-013
+ Normalized RMS of difference is   2.844725297688795E-014
+ 
+ swdflxs is NOT IDENTICAL.
+        3069  of         7168  elements are different.
+ RMS of difference is   2.110634655424903E-013
+ Normalized RMS of difference is   2.977300386698059E-014
+ 
+ rrtmg_sw: Tolerance for normalized RMS:   1.000000013351432E-010
+ rrtmg_sw: Number of variables checked:           15
+ rrtmg_sw: Number of Identical results:            1
+ rrtmg_sw: Number of warnings detected:           12
+ rrtmg_sw: Number of fatal errors detected:            2
+ rrtmg_sw: Verification FAILED
+ 
+ swuflx is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is   8.943355731794267E-013
+ Normalized RMS of difference is   7.012363136859152E-015
+ 
+ swdflx is NOT IDENTICAL.
+         238  of          512  elements are different.
+ RMS of difference is   9.374784394721418E-013
+ Normalized RMS of difference is   1.784282626582106E-015
+ 
+ swhr is NOT IDENTICAL.
+         198  of          496  elements are different.
+ RMS of difference is   2.736086353128399E-013
+ Normalized RMS of difference is   1.383377219967383E-013
+ 
+ swuflxc is NOT IDENTICAL.
+         255  of          512  elements are different.
+ RMS of difference is   2.463906541503987E-012
+ Normalized RMS of difference is   3.570816053963814E-014
+ 
+ swdflxc is NOT IDENTICAL.
+         237  of          512  elements are different.
+ RMS of difference is   1.858512362446614E-012
+ Normalized RMS of difference is   2.474416717217832E-015
+ 
+ swhrc is NOT IDENTICAL.
+         204  of          496  elements are different.
+ RMS of difference is   2.302715562923700E-013
+ Normalized RMS of difference is   1.648516912037598E-013
+ 
+ dirdnuv is NOT IDENTICAL.
+           4  of          512  elements are different.
+ RMS of difference is   3.275440170573378E-014
+ Normalized RMS of difference is   1.911836628206569E-016
+ 
+ dirdnir is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is    37.7406713489780     
+ Normalized RMS of difference is    2.49315005423002     
+ 
+ difdnuv is NOT IDENTICAL.
+         228  of          512  elements are different.
+ RMS of difference is   7.773438541442094E-013
+ Normalized RMS of difference is   1.719339072099906E-013
+ 
+ difdnir is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is    37.7406713489781     
+ Normalized RMS of difference is    1411.97608739317     
+ 
+ ninflx is NOT IDENTICAL.
+         250  of          512  elements are different.
+ RMS of difference is   3.388372617173637E-013
+ Normalized RMS of difference is   1.385956660200234E-015
+ 
+ ninflxc is NOT IDENTICAL.
+         253  of          512  elements are different.
+ RMS of difference is   9.357014880220077E-013
+ Normalized RMS of difference is   2.124416116506829E-015
+ 
+ swuflxs is NOT IDENTICAL.
+        3454  of         7168  elements are different.
+ RMS of difference is   1.836480562880585E-013
+ Normalized RMS of difference is   2.844725297688795E-014
+ 
+ swdflxs is NOT IDENTICAL.
+        3069  of         7168  elements are different.
+ RMS of difference is   2.110634655424903E-013
+ Normalized RMS of difference is   2.977300386698059E-014
+ 
+ rrtmg_sw: Tolerance for normalized RMS:   1.000000013351432E-010
+ rrtmg_sw: Number of variables checked:           15
+ rrtmg_sw: Number of Identical results:            1
+ rrtmg_sw: Number of warnings detected:           12
+ rrtmg_sw: Number of fatal errors detected:            2
+ rrtmg_sw: Verification FAILED
+ 
+ swuflx is NOT IDENTICAL.
+         256  of          512  elements are different.
+ 
+ RMS of difference is   8.943355731794267E-013
+ Normalized RMS of difference is   7.012363136859152E-015
+ 
+ swdflx is NOT IDENTICAL.
+         238  of          512  elements are different.
+ RMS of difference is   9.374784394721418E-013
+ Normalized RMS of difference is   1.784282626582106E-015
+ 
+ swhr is NOT IDENTICAL.
+         198  of          496  elements are different.
+ RMS of difference is   2.736086353128399E-013
+ Normalized RMS of difference is   1.383377219967383E-013
+ 
+ swuflxc is NOT IDENTICAL.
+         255  of          512  elements are different.
+ RMS of difference is   2.463906541503987E-012
+ Normalized RMS of difference is   3.570816053963814E-014
+ swuflx is NOT IDENTICAL.
+         256  of          512  elements are different.
+ 
+ 
+ swuflx is NOT IDENTICAL.
+         256  of          512  elements are different.
+ 
+ swdflxc is NOT IDENTICAL.
+         237  of          512  elements are different.
+ RMS of difference is   1.858512362446614E-012
+ Normalized RMS of difference is   2.474416717217832E-015
+ 
+ swhrc is NOT IDENTICAL.
+         204  of          496  elements are different.
+ RMS of difference is   2.302715562923700E-013
+ Normalized RMS of difference is   1.648516912037598E-013
+ 
+ dirdnuv is NOT IDENTICAL.
+           4  of          512  elements are different.
+ RMS of difference is   3.275440170573378E-014
+ Normalized RMS of difference is   1.911836628206569E-016
+ 
+ dirdnir is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is    37.7406713489780     
+ Normalized RMS of difference is    2.49315005423002     
+ 
+ difdnuv is NOT IDENTICAL.
+         228  of          512  elements are different.
+ RMS of difference is   7.773438541442094E-013
+ Normalized RMS of difference is   1.719339072099906E-013
+ 
+ difdnir is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is    37.7406713489781     
+ Normalized RMS of difference is    1411.97608739317     
+ 
+ ninflx is NOT IDENTICAL.
+         250  of          512  elements are different.
+ RMS of difference is   3.388372617173637E-013
+ Normalized RMS of difference is   1.385956660200234E-015
+ 
+ ninflxc is NOT IDENTICAL.
+         253  of          512  elements are different.
+ RMS of difference is   9.357014880220077E-013
+ Normalized RMS of difference is   2.124416116506829E-015
+ swuflx is NOT IDENTICAL.
+         256  of          512  elements are different.
+ 
+ swuflx is NOT IDENTICAL.
+         256  of          512  elements are different.
+ 
+ swuflxs is NOT IDENTICAL.
+        3454  of         7168  elements are different.
+ RMS of difference is   1.836480562880585E-013
+ Normalized RMS of difference is   2.844725297688795E-014
+ 
+ swdflxs is NOT IDENTICAL.
+        3069  of         7168  elements are different.
+ RMS of difference is   2.110634655424903E-013
+ Normalized RMS of difference is   2.977300386698059E-014
+ 
+ rrtmg_sw: Tolerance for normalized RMS:   1.000000013351432E-010
+ rrtmg_sw: Number of variables checked:           15
+ rrtmg_sw: Number of Identical results:            1
+ rrtmg_sw: Number of warnings detected:           12
+ rrtmg_sw: Number of fatal errors detected:            2
+ rrtmg_sw: Verification FAILED
+ 
+ swuflx is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is   8.943355731794267E-013
+ Normalized RMS of difference is   7.012363136859152E-015
+ 
+ swdflx is NOT IDENTICAL.
+         238  of          512  elements are different.
+ RMS of difference is   9.374784394721418E-013
+ Normalized RMS of difference is   1.784282626582106E-015
+ 
+ swhr is NOT IDENTICAL.
+         198  of          496  elements are different.
+ RMS of difference is   2.736086353128399E-013
+ Normalized RMS of difference is   1.383377219967383E-013
+ 
+ swuflxc is NOT IDENTICAL.
+         255  of          512  elements are different.
+ RMS of difference is   2.463906541503987E-012
+ Normalized RMS of difference is   3.570816053963814E-014
+ 
+ swuflx is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is   8.943355731794267E-013
+ Normalized RMS of difference is   7.012363136859152E-015
+ 
+ swdflx is NOT IDENTICAL.
+         238  of          512  elements are different.
+ RMS of difference is   9.374784394721418E-013
+ Normalized RMS of difference is   1.784282626582106E-015
+ 
+ swhr is NOT IDENTICAL.
+         198  of          496  elements are different.
+ RMS of difference is   2.736086353128399E-013
+ Normalized RMS of difference is   1.383377219967383E-013
+ 
+ swuflxc is NOT IDENTICAL.
+         255  of          512  elements are different.
+ RMS of difference is   2.463906541503987E-012
+ Normalized RMS of difference is   3.570816053963814E-014
+ 
+ swdflxc is NOT IDENTICAL.
+         237  of          512  elements are different.
+ RMS of difference is   1.858512362446614E-012
+ Normalized RMS of difference is   2.474416717217832E-015
+ 
+ swhrc is NOT IDENTICAL.
+         204  of          496  elements are different.
+ RMS of difference is   2.302715562923700E-013
+ Normalized RMS of difference is   1.648516912037598E-013
+ 
+ dirdnuv is NOT IDENTICAL.
+           4  of          512  elements are different.
+ RMS of difference is   3.275440170573378E-014
+ Normalized RMS of difference is   1.911836628206569E-016
+ 
+ dirdnir is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is    37.7406713489780     
+ Normalized RMS of difference is    2.49315005423002     
+ 
+ swdflxc is NOT IDENTICAL.
+         237  of          512  elements are different.
+ RMS of difference is   1.858512362446614E-012
+ Normalized RMS of difference is   2.474416717217832E-015
+ 
+ swhrc is NOT IDENTICAL.
+         204  of          496  elements are different.
+ RMS of difference is   2.302715562923700E-013
+ Normalized RMS of difference is   1.648516912037598E-013
+ 
+ dirdnuv is NOT IDENTICAL.
+           4  of          512  elements are different.
+ RMS of difference is   3.275440170573378E-014
+ Normalized RMS of difference is   1.911836628206569E-016
+ 
+ dirdnir is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is    37.7406713489780     
+ Normalized RMS of difference is    2.49315005423002     
+ 
+ difdnuv is NOT IDENTICAL.
+         228  of          512  elements are different.
+ RMS of difference is   7.773438541442094E-013
+ Normalized RMS of difference is   1.719339072099906E-013
+ 
+ difdnir is NOT IDENTICAL.
+         256  of          512  elements are different.
+ 
+ difdnuv is NOT IDENTICAL.
+         228  of          512  elements are different.
+ RMS of difference is   7.773438541442094E-013
+ Normalized RMS of difference is   1.719339072099906E-013
+ 
+ difdnir is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is    37.7406713489781     
+ RMS of difference is    37.7406713489781     
+ Normalized RMS of difference is    1411.97608739317     
+ 
+ ninflx is NOT IDENTICAL.
+         250  of          512  elements are different.
+ RMS of difference is   3.388372617173637E-013
+ Normalized RMS of difference is   1.385956660200234E-015
+ 
+ ninflxc is NOT IDENTICAL.
+         253  of          512  elements are different.
+ RMS of difference is   9.357014880220077E-013
+ Normalized RMS of difference is   2.124416116506829E-015
+ Normalized RMS of difference is    1411.97608739317     
+ 
+ ninflx is NOT IDENTICAL.
+         250  of          512  elements are different.
+ RMS of difference is   3.388372617173637E-013
+ Normalized RMS of difference is   1.385956660200234E-015
+ 
+ ninflxc is NOT IDENTICAL.
+         253  of          512  elements are different.
+ RMS of difference is   9.357014880220077E-013
+ Normalized RMS of difference is   2.124416116506829E-015
+ RMS of difference is   8.943355731794267E-013
+ Normalized RMS of difference is   7.012363136859152E-015
+ 
+ swdflx is NOT IDENTICAL.
+         238  of          512  elements are different.
+ RMS of difference is   9.374784394721418E-013
+ Normalized RMS of difference is   1.784282626582106E-015
+ 
+ swhr is NOT IDENTICAL.
+         198  of          496  elements are different.
+ RMS of difference is   2.736086353128399E-013
+ Normalized RMS of difference is   1.383377219967383E-013
+ 
+ swuflxc is NOT IDENTICAL.
+         255  of          512  elements are different.
+ RMS of difference is   2.463906541503987E-012
+ Normalized RMS of difference is   3.570816053963814E-014
+ 
+ swdflxc is NOT IDENTICAL.
+         237  of          512  elements are different.
+ RMS of difference is   1.858512362446614E-012
+ Normalized RMS of difference is   2.474416717217832E-015
+ 
+ swhrc is NOT IDENTICAL.
+         204  of          496  elements are different.
+ RMS of difference is   2.302715562923700E-013
+ Normalized RMS of difference is   1.648516912037598E-013
+ 
+ dirdnuv is NOT IDENTICAL.
+           4  of          512  elements are different.
+ RMS of difference is   3.275440170573378E-014
+ Normalized RMS of difference is   1.911836628206569E-016
+ 
+ dirdnir is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is    37.7406713489780     
+ Normalized RMS of difference is    2.49315005423002     
+ 
+ difdnuv is NOT IDENTICAL.
+         228  of          512  elements are different.
+ RMS of difference is   7.773438541442094E-013
+ Normalized RMS of difference is   1.719339072099906E-013
+ 
+ difdnir is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is    37.7406713489781     
+ Normalized RMS of difference is    1411.97608739317     
+ 
+ ninflx is NOT IDENTICAL.
+         250  of          512  elements are different.
+ RMS of difference is   3.388372617173637E-013
+ Normalized RMS of difference is   1.385956660200234E-015
+ 
+ ninflxc is NOT IDENTICAL.
+         253  of          512  elements are different.
+ RMS of difference is   9.357014880220077E-013
+ Normalized RMS of difference is   2.124416116506829E-015
+ 
+ swuflxs is NOT IDENTICAL.
+        3454  of         7168  elements are different.
+ RMS of difference is   1.836480562880585E-013
+ Normalized RMS of difference is   2.844725297688795E-014
+ 
+ swdflxs is NOT IDENTICAL.
+        3069  of         7168  elements are different.
+ RMS of difference is   2.110634655424903E-013
+ Normalized RMS of difference is   2.977300386698059E-014
+ 
+ rrtmg_sw: Tolerance for normalized RMS:   1.000000013351432E-010
+ rrtmg_sw: Number of variables checked:           15
+ rrtmg_sw: Number of Identical results:            1
+ rrtmg_sw: Number of warnings detected:           12
+ rrtmg_sw: Number of fatal errors detected:            2
+ rrtmg_sw: Verification FAILED
+ 
+ swuflxs is NOT IDENTICAL.
+        3454  of         7168  elements are different.
+ RMS of difference is   1.836480562880585E-013
+ Normalized RMS of difference is   2.844725297688795E-014
+ 
+ swdflxs is NOT IDENTICAL.
+        3069  of         7168  elements are different.
+ RMS of difference is   2.110634655424903E-013
+ Normalized RMS of difference is   2.977300386698059E-014
+ 
+ rrtmg_sw: Tolerance for normalized RMS:   1.000000013351432E-010
+ rrtmg_sw: Number of variables checked:           15
+ rrtmg_sw: Number of Identical results:            1
+ rrtmg_sw: Number of warnings detected:           12
+ rrtmg_sw: Number of fatal errors detected:            2
+ rrtmg_sw: Verification FAILED
+ 
+ swuflxs is NOT IDENTICAL.
+        3454  of         7168  elements are different.
+ RMS of difference is   1.836480562880585E-013
+ Normalized RMS of difference is   2.844725297688795E-014
+ 
+ swdflxs is NOT IDENTICAL.
+        3069  of         7168  elements are different.
+ RMS of difference is   2.110634655424903E-013
+ Normalized RMS of difference is   2.977300386698059E-014
+ 
+ rrtmg_sw: Tolerance for normalized RMS:   1.000000013351432E-010
+ rrtmg_sw: Number of variables checked:           15
+ rrtmg_sw: Number of Identical results:            1
+ rrtmg_sw: Number of warnings detected:           12
+ rrtmg_sw: Number of fatal errors detected:            2
+ rrtmg_sw: Verification FAILED
+ RMS of difference is   8.943355731794267E-013
+ Normalized RMS of difference is   7.012363136859152E-015
+ 
+ swdflx is NOT IDENTICAL.
+         238  of          512  elements are different.
+ RMS of difference is   9.374784394721418E-013
+ Normalized RMS of difference is   1.784282626582106E-015
+ 
+ swhr is NOT IDENTICAL.
+         198  of          496  elements are different.
+ RMS of difference is   2.736086353128399E-013
+ Normalized RMS of difference is   1.383377219967383E-013
+ 
+ swuflxc is NOT IDENTICAL.
+         255  of          512  elements are different.
+ RMS of difference is   2.463906541503987E-012
+ Normalized RMS of difference is   3.570816053963814E-014
+ 
+ swdflxc is NOT IDENTICAL.
+         237  of          512  elements are different.
+ RMS of difference is   1.858512362446614E-012
+ Normalized RMS of difference is   2.474416717217832E-015
+ 
+ swhrc is NOT IDENTICAL.
+         204  of          496  elements are different.
+ RMS of difference is   2.302715562923700E-013
+ Normalized RMS of difference is   1.648516912037598E-013
+ 
+ dirdnuv is NOT IDENTICAL.
+           4  of          512  elements are different.
+ RMS of difference is   3.275440170573378E-014
+ Normalized RMS of difference is   1.911836628206569E-016
+ 
+ dirdnir is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is    37.7406713489780     
+ Normalized RMS of difference is    2.49315005423002     
+ 
+ difdnuv is NOT IDENTICAL.
+         228  of          512  elements are different.
+ RMS of difference is   7.773438541442094E-013
+ Normalized RMS of difference is   1.719339072099906E-013
+ 
+ difdnir is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is    37.7406713489781     
+ Normalized RMS of difference is    1411.97608739317     
+ 
+ ninflx is NOT IDENTICAL.
+         250  of          512  elements are different.
+ RMS of difference is   3.388372617173637E-013
+ Normalized RMS of difference is   1.385956660200234E-015
+ 
+ ninflxc is NOT IDENTICAL.
+         253  of          512  elements are different.
+ RMS of difference is   9.357014880220077E-013
+ Normalized RMS of difference is   2.124416116506829E-015
+ RMS of difference is   8.943355731794267E-013
+ Normalized RMS of difference is   7.012363136859152E-015
+ 
+ swdflx is NOT IDENTICAL.
+         238  of          512  elements are different.
+ RMS of difference is   9.374784394721418E-013
+ Normalized RMS of difference is   1.784282626582106E-015
+ 
+ swhr is NOT IDENTICAL.
+         198  of          496  elements are different.
+ RMS of difference is   2.736086353128399E-013
+ Normalized RMS of difference is   1.383377219967383E-013
+ 
+ swuflxc is NOT IDENTICAL.
+         255  of          512  elements are different.
+ RMS of difference is   2.463906541503987E-012
+ Normalized RMS of difference is   3.570816053963814E-014
+ 
+ swdflxc is NOT IDENTICAL.
+         237  of          512  elements are different.
+ RMS of difference is   1.858512362446614E-012
+ Normalized RMS of difference is   2.474416717217832E-015
+ 
+ swhrc is NOT IDENTICAL.
+         204  of          496  elements are different.
+ RMS of difference is   2.302715562923700E-013
+ Normalized RMS of difference is   1.648516912037598E-013
+ 
+ dirdnuv is NOT IDENTICAL.
+           4  of          512  elements are different.
+ RMS of difference is   3.275440170573378E-014
+ Normalized RMS of difference is   1.911836628206569E-016
+ 
+ dirdnir is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is    37.7406713489780     
+ Normalized RMS of difference is    2.49315005423002     
+ 
+ difdnuv is NOT IDENTICAL.
+         228  of          512  elements are different.
+ RMS of difference is   7.773438541442094E-013
+ Normalized RMS of difference is   1.719339072099906E-013
+ 
+ difdnir is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is    37.7406713489781     
+ Normalized RMS of difference is    1411.97608739317     
+ 
+ ninflx is NOT IDENTICAL.
+         250  of          512  elements are different.
+ RMS of difference is   3.388372617173637E-013
+ Normalized RMS of difference is   1.385956660200234E-015
+ 
+ ninflxc is NOT IDENTICAL.
+         253  of          512  elements are different.
+ RMS of difference is   9.357014880220077E-013
+ Normalized RMS of difference is   2.124416116506829E-015
+ 
+ swuflxs is NOT IDENTICAL.
+        3454  of         7168  elements are different.
+ RMS of difference is   1.836480562880585E-013
+ Normalized RMS of difference is   2.844725297688795E-014
+ 
+ swdflxs is NOT IDENTICAL.
+        3069  of         7168  elements are different.
+ RMS of difference is   2.110634655424903E-013
+ Normalized RMS of difference is   2.977300386698059E-014
+ 
+ rrtmg_sw: Tolerance for normalized RMS:   1.000000013351432E-010
+ rrtmg_sw: Number of variables checked:           15
+ rrtmg_sw: Number of Identical results:            1
+ rrtmg_sw: Number of warnings detected:           12
+ rrtmg_sw: Number of fatal errors detected:            2
+ rrtmg_sw: Verification FAILED
+ 
+ swuflxs is NOT IDENTICAL.
+        3454  of         7168  elements are different.
+ RMS of difference is   1.836480562880585E-013
+ Normalized RMS of difference is   2.844725297688795E-014
+ 
+ swdflxs is NOT IDENTICAL.
+        3069  of         7168  elements are different.
+ RMS of difference is   2.110634655424903E-013
+ Normalized RMS of difference is   2.977300386698059E-014
+ 
+ rrtmg_sw: Tolerance for normalized RMS:   1.000000013351432E-010
+ rrtmg_sw: Number of variables checked:           15
+ rrtmg_sw: Number of Identical results:            1
+ rrtmg_sw: Number of warnings detected:           12
+ rrtmg_sw: Number of fatal errors detected:            2
+ rrtmg_sw: Verification FAILED
+ RMS of difference is   8.943355731794267E-013
+ Normalized RMS of difference is   7.012363136859152E-015
+ 
+ swdflx is NOT IDENTICAL.
+         238  of          512  elements are different.
+ RMS of difference is   9.374784394721418E-013
+ Normalized RMS of difference is   1.784282626582106E-015
+ 
+ swhr is NOT IDENTICAL.
+         198  of          496  elements are different.
+ RMS of difference is   2.736086353128399E-013
+ Normalized RMS of difference is   1.383377219967383E-013
+ 
+ swuflxc is NOT IDENTICAL.
+         255  of          512  elements are different.
+ RMS of difference is   2.463906541503987E-012
+ Normalized RMS of difference is   3.570816053963814E-014
+ 
+ swdflxc is NOT IDENTICAL.
+         237  of          512  elements are different.
+ RMS of difference is   1.858512362446614E-012
+ Normalized RMS of difference is   2.474416717217832E-015
+ 
+ swhrc is NOT IDENTICAL.
+         204  of          496  elements are different.
+ RMS of difference is   2.302715562923700E-013
+ Normalized RMS of difference is   1.648516912037598E-013
+ 
+ dirdnuv is NOT IDENTICAL.
+           4  of          512  elements are different.
+ RMS of difference is   3.275440170573378E-014
+ Normalized RMS of difference is   1.911836628206569E-016
+ 
+ dirdnir is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is    37.7406713489780     
+ Normalized RMS of difference is    2.49315005423002     
+ 
+ difdnuv is NOT IDENTICAL.
+         228  of          512  elements are different.
+ RMS of difference is   7.773438541442094E-013
+ Normalized RMS of difference is   1.719339072099906E-013
+ 
+ difdnir is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is    37.7406713489781     
+ Normalized RMS of difference is    1411.97608739317     
+ 
+ ninflx is NOT IDENTICAL.
+         250  of          512  elements are different.
+ RMS of difference is   3.388372617173637E-013
+ Normalized RMS of difference is   1.385956660200234E-015
+ 
+ ninflxc is NOT IDENTICAL.
+         253  of          512  elements are different.
+ RMS of difference is   9.357014880220077E-013
+ Normalized RMS of difference is   2.124416116506829E-015
+ 
+ swuflxs is NOT IDENTICAL.
+        3454  of         7168  elements are different.
+ RMS of difference is   1.836480562880585E-013
+ Normalized RMS of difference is   2.844725297688795E-014
+ 
+ swdflxs is NOT IDENTICAL.
+        3069  of         7168  elements are different.
+ RMS of difference is   2.110634655424903E-013
+ Normalized RMS of difference is   2.977300386698059E-014
+ 
+ rrtmg_sw: Tolerance for normalized RMS:   1.000000013351432E-010
+ rrtmg_sw: Number of variables checked:           15
+ rrtmg_sw: Number of Identical results:            1
+ rrtmg_sw: Number of warnings detected:           12
+ rrtmg_sw: Number of fatal errors detected:            2
+ rrtmg_sw: Verification FAILED
+ 
+ swuflx is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is   8.943355731794267E-013
+ Normalized RMS of difference is   7.012363136859152E-015
+ 
+ swdflx is NOT IDENTICAL.
+         238  of          512  elements are different.
+ RMS of difference is   9.374784394721418E-013
+ Normalized RMS of difference is   1.784282626582106E-015
+ 
+ swhr is NOT IDENTICAL.
+         198  of          496  elements are different.
+ RMS of difference is   2.736086353128399E-013
+ Normalized RMS of difference is   1.383377219967383E-013
+ 
+ swuflxc is NOT IDENTICAL.
+         255  of          512  elements are different.
+ RMS of difference is   2.463906541503987E-012
+ Normalized RMS of difference is   3.570816053963814E-014
+ 
+ swdflxc is NOT IDENTICAL.
+         237  of          512  elements are different.
+ RMS of difference is   1.858512362446614E-012
+ Normalized RMS of difference is   2.474416717217832E-015
+ 
+ swhrc is NOT IDENTICAL.
+         204  of          496  elements are different.
+ RMS of difference is   2.302715562923700E-013
+ Normalized RMS of difference is   1.648516912037598E-013
+ 
+ dirdnuv is NOT IDENTICAL.
+           4  of          512  elements are different.
+ RMS of difference is   3.275440170573378E-014
+ Normalized RMS of difference is   1.911836628206569E-016
+ 
+ dirdnir is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is    37.7406713489780     
+ Normalized RMS of difference is    2.49315005423002     
+ 
+ difdnuv is NOT IDENTICAL.
+         228  of          512  elements are different.
+ RMS of difference is   7.773438541442094E-013
+ Normalized RMS of difference is   1.719339072099906E-013
+ 
+ difdnir is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is    37.7406713489781     
+ Normalized RMS of difference is    1411.97608739317     
+ 
+ ninflx is NOT IDENTICAL.
+         250  of          512  elements are different.
+ RMS of difference is   3.388372617173637E-013
+ Normalized RMS of difference is   1.385956660200234E-015
+ 
+ ninflxc is NOT IDENTICAL.
+         253  of          512  elements are different.
+ RMS of difference is   9.357014880220077E-013
+ Normalized RMS of difference is   2.124416116506829E-015
+ 
+ swuflxs is NOT IDENTICAL.
+        3454  of         7168  elements are different.
+ RMS of difference is   1.836480562880585E-013
+ Normalized RMS of difference is   2.844725297688795E-014
+ 
+ swdflxs is NOT IDENTICAL.
+        3069  of         7168  elements are different.
+ RMS of difference is   2.110634655424903E-013
+ Normalized RMS of difference is   2.977300386698059E-014
+ 
+ rrtmg_sw: Tolerance for normalized RMS:   1.000000013351432E-010
+ rrtmg_sw: Number of variables checked:           15
+ rrtmg_sw: Number of Identical results:            1
+ rrtmg_sw: Number of warnings detected:           12
+ rrtmg_sw: Number of fatal errors detected:            2
+ rrtmg_sw: Verification FAILED
+ 
+ swuflx is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is   8.943355731794267E-013
+ Normalized RMS of difference is   7.012363136859152E-015
+ 
+ swdflx is NOT IDENTICAL.
+         238  of          512  elements are different.
+ RMS of difference is   9.374784394721418E-013
+ Normalized RMS of difference is   1.784282626582106E-015
+ 
+ swhr is NOT IDENTICAL.
+         198  of          496  elements are different.
+ RMS of difference is   2.736086353128399E-013
+ Normalized RMS of difference is   1.383377219967383E-013
+ 
+ swuflxc is NOT IDENTICAL.
+         255  of          512  elements are different.
+ RMS of difference is   2.463906541503987E-012
+ Normalized RMS of difference is   3.570816053963814E-014
+ 
+ swdflxc is NOT IDENTICAL.
+         237  of          512  elements are different.
+ RMS of difference is   1.858512362446614E-012
+ Normalized RMS of difference is   2.474416717217832E-015
+ 
+ swhrc is NOT IDENTICAL.
+         204  of          496  elements are different.
+ RMS of difference is   2.302715562923700E-013
+ Normalized RMS of difference is   1.648516912037598E-013
+ 
+ dirdnuv is NOT IDENTICAL.
+           4  of          512  elements are different.
+ RMS of difference is   3.275440170573378E-014
+ Normalized RMS of difference is   1.911836628206569E-016
+ 
+ dirdnir is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is    37.7406713489780     
+ Normalized RMS of difference is    2.49315005423002     
+ 
+ difdnuv is NOT IDENTICAL.
+         228  of          512  elements are different.
+ RMS of difference is   7.773438541442094E-013
+ Normalized RMS of difference is   1.719339072099906E-013
+ 
+ difdnir is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is    37.7406713489781     
+ Normalized RMS of difference is    1411.97608739317     
+ 
+ ninflx is NOT IDENTICAL.
+         250  of          512  elements are different.
+ RMS of difference is   3.388372617173637E-013
+ Normalized RMS of difference is   1.385956660200234E-015
+ 
+ ninflxc is NOT IDENTICAL.
+         253  of          512  elements are different.
+ RMS of difference is   9.357014880220077E-013
+ Normalized RMS of difference is   2.124416116506829E-015
+ 
+ swuflxs is NOT IDENTICAL.
+        3454  of         7168  elements are different.
+ RMS of difference is   1.836480562880585E-013
+ Normalized RMS of difference is   2.844725297688795E-014
+ 
+ swdflxs is NOT IDENTICAL.
+        3069  of         7168  elements are different.
+ RMS of difference is   2.110634655424903E-013
+ Normalized RMS of difference is   2.977300386698059E-014
+ 
+ rrtmg_sw: Tolerance for normalized RMS:   1.000000013351432E-010
+ rrtmg_sw: Number of variables checked:           15
+ rrtmg_sw: Number of Identical results:            1
+ rrtmg_sw: Number of warnings detected:           12
+ rrtmg_sw: Number of fatal errors detected:            2
+ rrtmg_sw: Verification FAILED
+ 
+ swuflx is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is   8.943355731794267E-013
+ Normalized RMS of difference is   7.012363136859152E-015
+ 
+ swdflx is NOT IDENTICAL.
+         238  of          512  elements are different.
+ RMS of difference is   9.374784394721418E-013
+ Normalized RMS of difference is   1.784282626582106E-015
+ 
+ swhr is NOT IDENTICAL.
+         198  of          496  elements are different.
+ RMS of difference is   2.736086353128399E-013
+ Normalized RMS of difference is   1.383377219967383E-013
+ 
+ swuflxc is NOT IDENTICAL.
+         255  of          512  elements are different.
+ RMS of difference is   2.463906541503987E-012
+ Normalized RMS of difference is   3.570816053963814E-014
+ 
+ swdflxc is NOT IDENTICAL.
+         237  of          512  elements are different.
+ RMS of difference is   1.858512362446614E-012
+ Normalized RMS of difference is   2.474416717217832E-015
+ 
+ swhrc is NOT IDENTICAL.
+         204  of          496  elements are different.
+ RMS of difference is   2.302715562923700E-013
+ Normalized RMS of difference is   1.648516912037598E-013
+ 
+ dirdnuv is NOT IDENTICAL.
+           4  of          512  elements are different.
+ RMS of difference is   3.275440170573378E-014
+ Normalized RMS of difference is   1.911836628206569E-016
+ 
+ dirdnir is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is    37.7406713489780     
+ Normalized RMS of difference is    2.49315005423002     
+ 
+ difdnuv is NOT IDENTICAL.
+         228  of          512  elements are different.
+ RMS of difference is   7.773438541442094E-013
+ Normalized RMS of difference is   1.719339072099906E-013
+ 
+ difdnir is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is    37.7406713489781     
+ Normalized RMS of difference is    1411.97608739317     
+ 
+ ninflx is NOT IDENTICAL.
+         250  of          512  elements are different.
+ RMS of difference is   3.388372617173637E-013
+ Normalized RMS of difference is   1.385956660200234E-015
+ 
+ ninflxc is NOT IDENTICAL.
+         253  of          512  elements are different.
+ RMS of difference is   9.357014880220077E-013
+ Normalized RMS of difference is   2.124416116506829E-015
+ 
+ swuflxs is NOT IDENTICAL.
+        3454  of         7168  elements are different.
+ RMS of difference is   1.836480562880585E-013
+ Normalized RMS of difference is   2.844725297688795E-014
+ 
+ swuflx is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is   8.943355731794267E-013
+ Normalized RMS of difference is   7.012363136859152E-015
+ 
+ swdflx is NOT IDENTICAL.
+         238  of          512  elements are different.
+ RMS of difference is   9.374784394721418E-013
+ 
+ swdflxs is NOT IDENTICAL.
+        3069  of         7168  elements are different.
+ RMS of difference is   2.110634655424903E-013
+ Normalized RMS of difference is   2.977300386698059E-014
+ 
+ rrtmg_sw: Tolerance for normalized RMS:   1.000000013351432E-010
+ rrtmg_sw: Number of variables checked:           15
+ rrtmg_sw: Number of Identical results:            1
+ rrtmg_sw: Number of warnings detected:           12
+ rrtmg_sw: Number of fatal errors detected:            2
+ rrtmg_sw: Verification FAILED
+ Normalized RMS of difference is   1.784282626582106E-015
+ 
+ swhr is NOT IDENTICAL.
+         198  of          496  elements are different.
+ RMS of difference is   2.736086353128399E-013
+ Normalized RMS of difference is   1.383377219967383E-013
+ 
+ swuflxc is NOT IDENTICAL.
+         255  of          512  elements are different.
+ RMS of difference is   2.463906541503987E-012
+ Normalized RMS of difference is   3.570816053963814E-014
+ 
+ swdflxc is NOT IDENTICAL.
+         237  of          512  elements are different.
+ RMS of difference is   1.858512362446614E-012
+ Normalized RMS of difference is   2.474416717217832E-015
+ 
+ swhrc is NOT IDENTICAL.
+         204  of          496  elements are different.
+ RMS of difference is   2.302715562923700E-013
+ Normalized RMS of difference is   1.648516912037598E-013
+ 
+ dirdnuv is NOT IDENTICAL.
+           4  of          512  elements are different.
+ RMS of difference is   3.275440170573378E-014
+ Normalized RMS of difference is   1.911836628206569E-016
+ 
+ dirdnir is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is    37.7406713489780     
+ Normalized RMS of difference is    2.49315005423002     
+ 
+ swuflx is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is   8.943355731794267E-013
+ Normalized RMS of difference is   7.012363136859152E-015
+ 
+ swdflx is NOT IDENTICAL.
+         238  of          512  elements are different.
+ RMS of difference is   9.374784394721418E-013
+ Normalized RMS of difference is   1.784282626582106E-015
+ 
+ swhr is NOT IDENTICAL.
+         198  of          496  elements are different.
+ RMS of difference is   2.736086353128399E-013
+ Normalized RMS of difference is   1.383377219967383E-013
+ 
+ swuflxc is NOT IDENTICAL.
+         255  of          512  elements are different.
+ RMS of difference is   2.463906541503987E-012
+ 
+ difdnuv is NOT IDENTICAL.
+         228  of          512  elements are different.
+ RMS of difference is   7.773438541442094E-013
+ Normalized RMS of difference is   1.719339072099906E-013
+ 
+ difdnir is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is    37.7406713489781     
+ Normalized RMS of difference is    1411.97608739317     
+ 
+ ninflx is NOT IDENTICAL.
+         250  of          512  elements are different.
+ RMS of difference is   3.388372617173637E-013
+ Normalized RMS of difference is   1.385956660200234E-015
+ 
+ ninflxc is NOT IDENTICAL.
+         253  of          512  elements are different.
+ RMS of difference is   9.357014880220077E-013
+ Normalized RMS of difference is   2.124416116506829E-015
+ Normalized RMS of difference is   3.570816053963814E-014
+ 
+ swdflxc is NOT IDENTICAL.
+         237  of          512  elements are different.
+ RMS of difference is   1.858512362446614E-012
+ Normalized RMS of difference is   2.474416717217832E-015
+ 
+ swhrc is NOT IDENTICAL.
+         204  of          496  elements are different.
+ RMS of difference is   2.302715562923700E-013
+ Normalized RMS of difference is   1.648516912037598E-013
+ 
+ dirdnuv is NOT IDENTICAL.
+           4  of          512  elements are different.
+ RMS of difference is   3.275440170573378E-014
+ Normalized RMS of difference is   1.911836628206569E-016
+ 
+ dirdnir is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is    37.7406713489780     
+ Normalized RMS of difference is    2.49315005423002     
+ 
+ difdnuv is NOT IDENTICAL.
+         228  of          512  elements are different.
+ RMS of difference is   7.773438541442094E-013
+ Normalized RMS of difference is   1.719339072099906E-013
+ 
+ difdnir is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is    37.7406713489781     
+ Normalized RMS of difference is    1411.97608739317     
+ 
+ swuflx is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is   8.943355731794267E-013
+ 
+ ninflx is NOT IDENTICAL.
+         250  of          512  elements are different.
+ RMS of difference is   3.388372617173637E-013
+ Normalized RMS of difference is   1.385956660200234E-015
+ 
+ ninflxc is NOT IDENTICAL.
+         253  of          512  elements are different.
+ RMS of difference is   9.357014880220077E-013
+ Normalized RMS of difference is   2.124416116506829E-015
+ Normalized RMS of difference is   7.012363136859152E-015
+ 
+ swdflx is NOT IDENTICAL.
+         238  of          512  elements are different.
+ RMS of difference is   9.374784394721418E-013
+ Normalized RMS of difference is   1.784282626582106E-015
+ 
+ swhr is NOT IDENTICAL.
+         198  of          496  elements are different.
+ RMS of difference is   2.736086353128399E-013
+ Normalized RMS of difference is   1.383377219967383E-013
+ 
+ swuflxc is NOT IDENTICAL.
+         255  of          512  elements are different.
+ RMS of difference is   2.463906541503987E-012
+ Normalized RMS of difference is   3.570816053963814E-014
+ 
+ swdflxc is NOT IDENTICAL.
+         237  of          512  elements are different.
+ RMS of difference is   1.858512362446614E-012
+ Normalized RMS of difference is   2.474416717217832E-015
+ 
+ swhrc is NOT IDENTICAL.
+         204  of          496  elements are different.
+ RMS of difference is   2.302715562923700E-013
+ Normalized RMS of difference is   1.648516912037598E-013
+ 
+ dirdnuv is NOT IDENTICAL.
+           4  of          512  elements are different.
+ RMS of difference is   3.275440170573378E-014
+ Normalized RMS of difference is   1.911836628206569E-016
+ 
+ dirdnir is NOT IDENTICAL.
+ 
+ swuflxs is NOT IDENTICAL.
+        3454  of         7168  elements are different.
+ RMS of difference is   1.836480562880585E-013
+ Normalized RMS of difference is   2.844725297688795E-014
+ 
+ swuflxs is NOT IDENTICAL.
+        3454  of         7168  elements are different.
+ RMS of difference is   1.836480562880585E-013
+ Normalized RMS of difference is   2.844725297688795E-014
+         256  of          512  elements are different.
+ RMS of difference is    37.7406713489780     
+ Normalized RMS of difference is    2.49315005423002     
+ 
+ difdnuv is NOT IDENTICAL.
+         228  of          512  elements are different.
+ RMS of difference is   7.773438541442094E-013
+ Normalized RMS of difference is   1.719339072099906E-013
+ 
+ difdnir is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is    37.7406713489781     
+ Normalized RMS of difference is    1411.97608739317     
+ 
+ ninflx is NOT IDENTICAL.
+         250  of          512  elements are different.
+ RMS of difference is   3.388372617173637E-013
+ Normalized RMS of difference is   1.385956660200234E-015
+ 
+ ninflxc is NOT IDENTICAL.
+         253  of          512  elements are different.
+ 
+ swuflx is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is   8.943355731794267E-013
+ Normalized RMS of difference is   7.012363136859152E-015
+ 
+ swdflx is NOT IDENTICAL.
+         238  of          512  elements are different.
+ RMS of difference is   9.374784394721418E-013
+ Normalized RMS of difference is   1.784282626582106E-015
+ 
+ swhr is NOT IDENTICAL.
+         198  of          496  elements are different.
+ RMS of difference is   2.736086353128399E-013
+ Normalized RMS of difference is   1.383377219967383E-013
+ 
+ swuflxc is NOT IDENTICAL.
+         255  of          512  elements are different.
+ RMS of difference is   2.463906541503987E-012
+ Normalized RMS of difference is   3.570816053963814E-014
+ 
+ swdflxs is NOT IDENTICAL.
+        3069  of         7168  elements are different.
+ RMS of difference is   2.110634655424903E-013
+ Normalized RMS of difference is   2.977300386698059E-014
+ 
+ rrtmg_sw: Tolerance for normalized RMS:   1.000000013351432E-010
+ rrtmg_sw: Number of variables checked:           15
+ rrtmg_sw: Number of Identical results:            1
+ rrtmg_sw: Number of warnings detected:           12
+ rrtmg_sw: Number of fatal errors detected:            2
+ rrtmg_sw: Verification FAILED
+ 
+ swdflxs is NOT IDENTICAL.
+        3069  of         7168  elements are different.
+ RMS of difference is   2.110634655424903E-013
+ Normalized RMS of difference is   2.977300386698059E-014
+ RMS of difference is   9.357014880220077E-013
+ Normalized RMS of difference is   2.124416116506829E-015
+ 
+ swdflxc is NOT IDENTICAL.
+         237  of          512  elements are different.
+ RMS of difference is   1.858512362446614E-012
+ Normalized RMS of difference is   2.474416717217832E-015
+ 
+ swhrc is NOT IDENTICAL.
+         204  of          496  elements are different.
+ RMS of difference is   2.302715562923700E-013
+ Normalized RMS of difference is   1.648516912037598E-013
+ 
+ dirdnuv is NOT IDENTICAL.
+           4  of          512  elements are different.
+ RMS of difference is   3.275440170573378E-014
+ Normalized RMS of difference is   1.911836628206569E-016
+ 
+ dirdnir is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is    37.7406713489780     
+ Normalized RMS of difference is    2.49315005423002     
+ 
+ difdnuv is NOT IDENTICAL.
+         228  of          512  elements are different.
+ RMS of difference is   7.773438541442094E-013
+ Normalized RMS of difference is   1.719339072099906E-013
+ 
+ difdnir is NOT IDENTICAL.
+         256  of          512  elements are different.
+ RMS of difference is    37.7406713489781     
+ Normalized RMS of difference is    1411.97608739317     
+ 
+ ninflx is NOT IDENTICAL.
+         250  of          512  elements are different.
+ RMS of difference is   3.388372617173637E-013
+ Normalized RMS of difference is   1.385956660200234E-015
+ 
+ rrtmg_sw: Tolerance for normalized RMS:   1.000000013351432E-010
+ rrtmg_sw: Number of variables checked:           15
+ rrtmg_sw: Number of Identical results:            1
+ rrtmg_sw: Number of warnings detected:           12
+ rrtmg_sw: Number of fatal errors detected:            2
+ rrtmg_sw: Verification FAILED
+ 
+ ninflxc is NOT IDENTICAL.
+         253  of          512  elements are different.
+ RMS of difference is   9.357014880220077E-013
+ Normalized RMS of difference is   2.124416116506829E-015
+ 
+ swuflxs is NOT IDENTICAL.
+        3454  of         7168  elements are different.
+ RMS of difference is   1.836480562880585E-013
+ Normalized RMS of difference is   2.844725297688795E-014
+ 
+ swdflxs is NOT IDENTICAL.
+        3069  of         7168  elements are different.
+ RMS of difference is   2.110634655424903E-013
+ Normalized RMS of difference is   2.977300386698059E-014
+ 
+ swuflxs is NOT IDENTICAL.
+        3454  of         7168  elements are different.
+ RMS of difference is   1.836480562880585E-013
+ Normalized RMS of difference is   2.844725297688795E-014
+ 
+ rrtmg_sw: Tolerance for normalized RMS:   1.000000013351432E-010
+ rrtmg_sw: Number of variables checked:           15
+ rrtmg_sw: Number of Identical results:            1
+ rrtmg_sw: Number of warnings detected:           12
+ rrtmg_sw: Number of fatal errors detected:            2
+ rrtmg_sw: Verification FAILED
+ 
+ swdflxs is NOT IDENTICAL.
+        3069  of         7168  elements are different.
+ RMS of difference is   2.110634655424903E-013
+ Normalized RMS of difference is   2.977300386698059E-014
+ 
+ rrtmg_sw: Tolerance for normalized RMS:   1.000000013351432E-010
+ rrtmg_sw: Number of variables checked:           15
+ rrtmg_sw: Number of Identical results:            1
+ rrtmg_sw: Number of warnings detected:           12
+ rrtmg_sw: Number of fatal errors detected:            2
+ rrtmg_sw: Verification FAILED
+ 
+ rrtmg_sw : Time per call (usec):    8002.974    
+ 
+ rrtmg_sw : Time per call (usec):    8007.634    
+ 
+ rrtmg_sw : Time per call (usec):    8005.169    
+ 
+ rrtmg_sw : Time per call (usec):    8009.334    
+ 
+ rrtmg_sw : Time per call (usec):    8009.753    
+ 
+ rrtmg_sw : Time per call (usec):    8007.804    
+ 
+ rrtmg_sw : Time per call (usec):    8008.253    
+ 
+ rrtmg_sw : Time per call (usec):    8034.715    
+ 
+ rrtmg_sw : Time per call (usec):    8062.360    
+ 
+ rrtmg_sw : Time per call (usec):    8059.963    
+ 
+ rrtmg_sw : Time per call (usec):    8073.030    
+ 
+ rrtmg_sw : Time per call (usec):    8082.074    
+ 
+ rrtmg_sw : Time per call (usec):    8096.477    
+ 
+ rrtmg_sw : Time per call (usec):    8082.135    
+ 
+ rrtmg_sw : Time per call (usec):    8101.940    
+ 
+ rrtmg_sw : Time per call (usec):    8119.082    
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@ys0247-ib>
+Subject: Job 803489: <Shortwave> in cluster <yellowstone> Done
+
+Job <Shortwave> was submitted from host <yslogin1-ib> by user <raghuraj> in cluster <yellowstone>.
+Job was executed on host(s) <16*ys0247-ib>, in queue <premium>, as user <raghuraj> in cluster <yellowstone>.
+</glade/u/home/raghuraj> was used as the home directory.
+</glade/p/work/raghuraj/optimizations/sw/mpi_rad_optimized> was used as the working directory.
+Started at Fri Dec 18 12:00:52 2015
+Results reported on Fri Dec 18 12:01:11 2015
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+#!/bin/tcsh
+
+#BSUB -P STDD0002
+#BSUB -J Shortwave
+#BSUB -o wave.16.%J.out
+#BSUB -n 16
+#BSUB -W 0:05
+#BSUB -q premium
+#BSUB -R "span[ptile=16]"
+cd /glade/p/work/raghuraj/optimizations/sw/mpi_rad_optimized
+mpirun.lsf ./kernel.exe
+
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   140.45 sec.
+    Max Memory :                                 551 MB
+    Average Memory :                             1.00 MB
+    Total Requested Memory :                     -
+    Delta Memory :                               -
+    Max Processes :                              4
+    Max Threads :                                11
+    Run time :                                   14 sec.
+    Turnaround time :                            27 sec.
+
+The output (if any) is above this job summary.
+
